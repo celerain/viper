@@ -21,3 +21,5 @@ require (
 	gopkg.in/ini.v1 v1.51.0
 	gopkg.in/yaml.v2 v2.2.4
 )
+
+replace github.com/spf13/viper => github.com/celerain/viper v1.6.3-tidy // indirect
